@@ -1,4 +1,4 @@
-FROM ghcr.io/Rinko0/hajimi:latest
+FROM ghcr.io/rinko0102/hajimi:latest
 
 WORKDIR /app
 
